@@ -1,4 +1,4 @@
-# SwiftUI-MVVM-ListView
+# Swipe-SwiftUI-MVVM
 
 This project for Swipe Simple & Billing and Payments is a simple example of using SwiftUI with MVVM architecture to list and add products by calling an API. The Product Listing screen displays a searchable, scrollable list of products with images and details (name, type, price, tax), and includes a loading progress bar. 
 
